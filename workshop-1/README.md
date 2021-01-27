@@ -25,6 +25,16 @@ It bootstraps this template into a new folder called `my-app/`.
 npx create-snowpack-app my-app --template snowpack-template-tailwind --use-yarn
 ```
 
+> Avocados.
+
+![](https://drive.google.com/file/d/1om_njJ6fo11Ao5d8ptydC4hOcRyDAFIY/view?usp=sharing)
+
+> Cute Fox.
+
+![](https://drive.google.com/file/d/11UkzY5tSlFxmlayIdAIZbdMjC99g3nY4/view?usp=sharing)
+
+
+
 
 
 ## Features
