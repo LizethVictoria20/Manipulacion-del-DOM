@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "format": "prettier --write \"src/**/*.js\"",
+    "lint": "prettier --check \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "husky": "^4.3.8",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^3.1.0",
+    "snowpack": "^3.0.11",
+    "tailwindcss": "^2.0.2"
+  },
+  "name": "workshop-2-loading",
+  "description": "> ✨ Bootstrapped with Create Snowpack App (CSA).",
+  "version": "1.0.0",
+  "main": "snowpack.config.js",
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
