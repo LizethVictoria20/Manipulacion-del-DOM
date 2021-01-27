@@ -25,6 +25,9 @@ It bootstraps this template into a new folder called `my-app/`.
 npx create-snowpack-app my-app --template snowpack-template-tailwind --use-yarn
 ```
 
+> Cute Fox.
+
+![](https://github.com/LizethVictoria20/Manipulacion-del-DOM/blob/main/workshop-2-loading/src/source/img/FoxII.png?raw=true)
 
 
 ## Features
