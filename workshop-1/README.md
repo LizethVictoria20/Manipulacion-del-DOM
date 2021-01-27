@@ -29,13 +29,6 @@ npx create-snowpack-app my-app --template snowpack-template-tailwind --use-yarn
 
 ![](https://github.com/LizethVictoria20/Manipulacion-del-DOM/blob/main/workshop-1/src/static/Avocados.png?raw=true)
 
-> Cute Fox.
-
-![](https://drive.google.com/file/d/11UkzY5tSlFxmlayIdAIZbdMjC99g3nY4/view?usp=sharing)
-
-
-
-
 
 ## Features
 
