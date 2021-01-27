@@ -27,7 +27,7 @@ npx create-snowpack-app my-app --template snowpack-template-tailwind --use-yarn
 
 > Avocados.
 
-![](https://drive.google.com/file/d/1om_njJ6fo11Ao5d8ptydC4hOcRyDAFIY/view?usp=sharing)
+![](https://github.com/LizethVictoria20/Manipulacion-del-DOM/blob/main/workshop-1/src/static/Avocados.png?raw=true)
 
 > Cute Fox.
 
